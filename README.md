@@ -1,4 +1,4 @@
 # Zaib-Work
 This is my first git repo.
 <br>
-Author --ZOHAIB HAIDER
+Author --ZOHAIB HASSAN
